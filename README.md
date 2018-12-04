@@ -1,4 +1,4 @@
-# tumblr-downloader 
+# EXPERIMENTAL FORK OF Liru/tumblr-downloader 
 
 A tumblr scraper, designed to download all the images from the blogs that you want.
 
